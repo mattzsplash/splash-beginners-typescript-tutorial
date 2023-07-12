@@ -14,6 +14,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "/Users/mattz/sites/splash-beginners-typescript-tutorial/src/02-object-param.problem.ts"
+    "/Users/mattz/sites/splash-beginners-typescript-tutorial/src/03-optional-properties.problem.ts"
   ]
 }
